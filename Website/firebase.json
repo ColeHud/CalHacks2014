@@ -1,0 +1,9 @@
+{
+  "firebase": "attendeeappwebsite",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
